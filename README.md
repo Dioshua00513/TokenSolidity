@@ -10,12 +10,11 @@ Token programming is a coding technique where a program is broken down into its 
 Token programming involves working with the smallest units of code, called tokens, to perform various tasks like code generation, refactoring, analysis, and more. It allows developers to manipulate these tokens to achieve specific goals in software development, making it a versatile technique for improving code quality, automating tasks, and building dynamic solutions.
 
 
+## Getting Started
 
+## Installing
 
-### Executing program
-
-
-To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
+To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/. First, Copy the code inside the file name "CODE" in the repository and paste it by creating a new file.
 
 ### Executing program
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., MyToken.sol). Copy and paste the following code into the file:
