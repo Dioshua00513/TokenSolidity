@@ -70,18 +70,13 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-Once the contract is deployed, you can interact with it by calling the Mint function. Click on the "MyToken" contract in the left-hand sidebar, and then click on the "mint" function. Finally, click on the "transact" button to execute the function and retrieve the "MyToken!" message.
+
+Once the contract is deployed, you can interact with it by calling the Mint function. Click on the "MyToken" contract in the left-hand sidebar, and then click on the "mint" function. Finally, click on the "transact" button to execute the function. 
+
+The program is running by clicking the mint function and pasting address in the right side of the mint function, The address will come from "ACCOUNT". You can check the TokenName, TokkenAbv, TotalSupply by clicking its button after the "mint" function does. You can also check the balances by copy pasting the address in the right side of the "balances" button. The "burn" function will also decrease the totalSupply and balances in the mint function.
+
 
 ## Authors
 
 Dioshua Sapnu
 @dioshuadalugdugan@gmail.com
-
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
